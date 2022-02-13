@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Japanese</string>
+    <string name="phrases_name">Phrases</string>
+    <string name="numbers_name">Numbers</string>
+    <string name="colors_name">Colors</string>
+
+</resources>
