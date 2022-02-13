@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         listView.setClickable(true);
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            
+
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
 

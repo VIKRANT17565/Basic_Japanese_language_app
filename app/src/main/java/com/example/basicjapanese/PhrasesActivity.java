@@ -51,7 +51,7 @@ public class PhrasesActivity extends AppCompatActivity {
         word.add(new Word("I'm sorry", "ごめんなさい \n(gomen nasai)", R.raw.imsorry));
         word.add(new Word("Excuse me", "すみません \n(sumimasen)", R.raw.excuseme));
         word.add(new Word("Do you speak English?","えいごをはなせますか。\n(Eigo o hanasemasu ka)", R.raw.doyouspeekenglish));
-        word.add(new Word("I only speak a little Japanese","わたしは にほんごがすこししか はなせません。\n(Watashiwa nihongo sukoshi shika hanasemasen)", R.raw.icanspeeklittelbitjapanese));
+        word.add(new Word("I only speak a little Japanese","わたしは にほんごがすこししか はなせません。\n(Watashiwa nihongo sukoshi hanasemasen)", R.raw.icanspeeklittelbitjapanese));
         word.add(new Word("What is your name?","おなまえはなんですか。\n(O-namae wa nan desu ka)", R.raw.whatisyourname));
         word.add(new Word("My name is ....","わたしのなまえは　かり です。\n(Watashi no namae wa .... desu)", R.raw.mynameis));
         word.add(new Word("How are you?","おげんきですか。\n(O-genki desu ka)", R.raw.howareyou));
