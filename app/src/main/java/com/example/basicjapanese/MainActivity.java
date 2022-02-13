@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
 
     ListView listView;
     String listContent[] = {"Numbers", "Colors", "Phrases"};
-    int n = 10;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
